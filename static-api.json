@@ -1,12 +1,52 @@
 [
-    {"nama": "Ikan Mas Koki", "famili": "Cyprinidae", "imageId": "mas koki"},
-    {"nama": "Ikan Badut", "famili": "Pomacentridae", "imageId": "badut"},
-    {"nama": "Ikan Cupang", "famili": "Osphronemidae", "imageId": "cupang"},
-    {"nama": "Ikan Gupi", "famili": "Poeciliidae", "imageId": "gupi"},
-    {"nama": "Ikan Oscar", "famili": "Cichlidae", "imageId": "oscar"},
-    {"nama": "Ikan Diskus", "famili": "Cichlidae", "imageId": "diskus"},
-    {"nama": "Ikan Arwana", "famili": "Osteoglossidae", "imageId": "arwana"},
-    {"nama": "Ikan Neon Tetra", "famili": "Characidae", "imageId": "neon tetra"},
-    {"nama": "Ikan Manfish", "famili": "Cichlidae", "imageId": "manfish"},
-    {"nama": "Ikan Bleeding Heart", "famili": "Characidae", "imageId": "bleeding heart"}
+    {
+        "nama": "Ikan Mas Koki",
+        "famili": "Cyprinidae",
+        "imageId": "mas koki"
+    },
+    {
+        "nama": "Ikan Badut",
+        "famili": "Pomacentridae",
+        "imageId": "badut"
+    },
+    {
+        "nama": "Ikan Cupang",
+        "famili": "Osphronemidae",
+        "imageId": "cupang"
+    },
+    {
+        "nama": "Ikan Gupi",
+        "famili": "Poeciliidae",
+        "imageId": "gupi"
+    },
+    {
+        "nama": "Ikan Oscar",
+        "famili": "Cichlidae",
+        "imageId": "oscar"
+    },
+    {
+        "nama": "Ikan Diskus",
+        "famili": "Cichlidae",
+        "imageId": "diskus"
+    },
+    {
+        "nama": "Ikan Arwana",
+        "famili": "Osteoglossidae",
+        "imageId": "arwana"
+    },
+    {
+        "nama": "Ikan Neon Tetra",
+        "famili": "Characidae",
+        "imageId": "neon tetra"
+    },
+    {
+        "nama": "Ikan Manfish",
+        "famili": "Cichlidae",
+        "imageId": "manfish"
+    },
+    {
+        "nama": "Ikan Bleeding Heart",
+        "famili": "Characidae",
+        "imageId": "bleeding heart"
+    }
 ]
